@@ -27,6 +27,8 @@ problems are solved in python(3)
 - Find First and Last Position of Element in Sorted Array
 - Maximum Subarray
 - Find Duplicate
+- Merge Intervals
+- Next Permutation
 
 
 # Sorting
