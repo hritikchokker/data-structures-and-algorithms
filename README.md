@@ -15,7 +15,11 @@ problems are solved in python(3)
 - Nuts and Bolts Problem
 - Sum of elements in a matrix
 - Multiply left and right array sum
+- Cyclically rotate an array by one
+- Union of two arrays
 - Delete without head pointer
+- Sort an array of 0s, 1s and 2s
+- Move all negative numbers to beginning and positive to end with constant extra space
 
 # Leetcode problems 
 
@@ -29,6 +33,8 @@ problems are solved in python(3)
 - Find Duplicate
 
 
+
+
 # Sorting
 - Bubble Sort
 - Selection Sort
@@ -38,3 +44,15 @@ problems are solved in python(3)
 - Radix Sort
 - Bin/Bucke Sort
 - Shell Sort
+
+
+
+# HackerRank
+- Compare the Triplets
+- Diagonal Difference
+- Plus Minus
+- Mini-Max Sum
+- Birthday Cake Candles
+- Staircase
+- Number Line Jumps
+- 
