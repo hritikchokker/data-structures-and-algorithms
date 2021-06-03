@@ -20,6 +20,7 @@ problems are solved in python(3)
 - Delete without head pointer
 - Sort an array of 0s, 1s and 2s
 - Move all negative numbers to beginning and positive to end with constant extra space
+- Common elements
 
 # Leetcode problems 
 
@@ -33,6 +34,7 @@ problems are solved in python(3)
 - Find Duplicate
 - Merge Intervals
 - Next Permutation
+- Best Time to Buy and Sell Stock
 
 
 
