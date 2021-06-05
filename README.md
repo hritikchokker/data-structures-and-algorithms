@@ -21,6 +21,9 @@ problems are solved in python(3)
 - Sort an array of 0s, 1s and 2s
 - Move all negative numbers to beginning and positive to end with constant extra space
 - Common elements
+- Count pairs with given sum
+- Subarray with 0 sum 
+- Rearrange array in alternating positive & negative items with O(1) extra space
 
 # Leetcode problems 
 
