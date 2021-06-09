@@ -26,6 +26,7 @@ problems are solved in python(3)
 - Rearrange array in alternating positive & negative items with O(1) extra space
 - Maximum Product Subarray 
 - Factorials of large numbers 
+- Longest consecutive subsequence 
 
 # Leetcode problems 
 
