@@ -27,6 +27,8 @@ problems are solved in python(3)
 - Maximum Product Subarray 
 - Factorials of large numbers 
 - Longest consecutive subsequence 
+- Array Subset of another array
+- Triplet Sum in Array 
 
 # Leetcode problems 
 
