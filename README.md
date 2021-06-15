@@ -29,6 +29,10 @@ problems are solved in python(3)
 - Longest consecutive subsequence 
 - Array Subset of another array
 - Triplet Sum in Array 
+- Count More than n/k Occurences 
+- Maximum profit by buying and selling a share at most twice
+- Trapping Rain Water 
+
 
 # Leetcode problems 
 
