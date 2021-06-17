@@ -32,6 +32,7 @@ problems are solved in python(3)
 - Count More than n/k Occurences 
 - Maximum profit by buying and selling a share at most twice
 - Trapping Rain Water 
+- Chocolate Distribution Problem
 
 
 # Leetcode problems 
