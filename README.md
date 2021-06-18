@@ -33,6 +33,7 @@ problems are solved in python(3)
 - Maximum profit by buying and selling a share at most twice
 - Trapping Rain Water 
 - Chocolate Distribution Problem
+- Smallest subarray with sum greater than x
 
 
 # Leetcode problems 
