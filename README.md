@@ -34,6 +34,7 @@ problems are solved in python(3)
 - Trapping Rain Water 
 - Chocolate Distribution Problem
 - Smallest subarray with sum greater than x
+- Find subarray with given sum with negatives allowed in constant space
 
 
 # Leetcode problems 
