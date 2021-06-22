@@ -42,7 +42,7 @@ problems are solved in python(3)
 - Spirally traversing a matrix 
 
 
-# Leetcode problems 
+# Leetcode array problems 
 
 - ZigZag Conversion
 - Remove Duplicates from Sorted Array
@@ -57,7 +57,9 @@ problems are solved in python(3)
 - Best Time to Buy and Sell Stock
 
 
+# Leetcode matrix problems 
 
+-Search a 2D Matrix
 
 # Sorting
 - Bubble Sort
