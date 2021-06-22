@@ -5,7 +5,7 @@ questions on data structures and algorithms from leetcode hackerrank,geeksforgee
 
 problems are solved in python(3)
 
-# geeksforgeeks problems
+# geeksforgeeks array problems
 
 - Delete without head pointer
 - Multiply left and right array sum
@@ -35,6 +35,11 @@ problems are solved in python(3)
 - Chocolate Distribution Problem
 - Smallest subarray with sum greater than x
 - Find subarray with given sum with negatives allowed in constant space
+- Three way partitioning 
+
+# geeksforgeeks matrix problems
+
+- Spirally traversing a matrix 
 
 
 # Leetcode problems 
@@ -74,4 +79,3 @@ problems are solved in python(3)
 - Birthday Cake Candles
 - Staircase
 - Number Line Jumps
-- 
