@@ -40,6 +40,7 @@ problems are solved in python(3)
 # geeksforgeeks matrix problems
 
 - Spirally traversing a matrix 
+- Row with max 1s
 
 
 # Leetcode array problems 
