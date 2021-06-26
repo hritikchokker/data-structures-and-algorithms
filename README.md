@@ -41,6 +41,7 @@ problems are solved in python(3)
 
 - Spirally traversing a matrix 
 - Row with max 1s
+- Median in a row-wise sorted Matrix 
 
 
 # Leetcode array problems 
