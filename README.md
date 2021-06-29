@@ -44,6 +44,10 @@ problems are solved in python(3)
 - Median in a row-wise sorted Matrix 
 - Sorted matrix 
 - Max rectangle
+- Find a specific pair in Matrix
+- Kth element in Matrix
+- Rotate a matrix by 90 degree in clockwise direction without using any extra space
+- Common elements in all rows of a given matrix
 
 
 # Leetcode array problems 
