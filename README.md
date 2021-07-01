@@ -69,6 +69,20 @@ problems are solved in python(3)
 
 -Search a 2D Matrix
 
+
+# geeksforgeeks string problems
+
+-Palindrome String
+-Print all the duplicates in the input string
+-A Program to check if strings are rotations of each other or not
+
+# leetcode string problems
+
+-Reverse String
+
+
+
+
 # Sorting
 - Bubble Sort
 - Selection Sort
