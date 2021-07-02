@@ -67,19 +67,19 @@ problems are solved in python(3)
 
 # Leetcode matrix problems 
 
--Search a 2D Matrix
+- Search a 2D Matrix
 
 
 # geeksforgeeks string problems
 
--Palindrome String
--Print all the duplicates in the input string
--A Program to check if strings are rotations of each other or not
+- Palindrome String
+- Print all the duplicates in the input string
+- A Program to check if strings are rotations of each other or not
 
 # leetcode string problems
 
--Reverse String
-
+- Reverse String
+- Count and Say
 
 
 
