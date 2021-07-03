@@ -75,6 +75,7 @@ problems are solved in python(3)
 - Palindrome String
 - Print all the duplicates in the input string
 - A Program to check if strings are rotations of each other or not
+- Longest Palindrome in a String 
 
 # leetcode string problems
 
