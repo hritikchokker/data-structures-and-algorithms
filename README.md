@@ -5,7 +5,7 @@ questions on data structures and algorithms from leetcode hackerrank,geeksforgee
 
 problems are solved in python(3)
 
-# geeksforgeeks array problems
+# [geeksforgeeks array problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/geeks_for_geeks_array_problems.ipynb)
 
 - Delete without head pointer
 - Multiply left and right array sum
