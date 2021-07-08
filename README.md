@@ -37,7 +37,7 @@ problems are solved in python(3)
 - Find subarray with given sum with negatives allowed in constant space
 - Three way partitioning 
 
-# geeksforgeeks matrix problems
+# [geeksforgeeks matrix problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/geeks_for_geeks_matrix_problems.ipynb)
 
 - Spirally traversing a matrix 
 - Row with max 1s
@@ -50,7 +50,7 @@ problems are solved in python(3)
 - Common elements in all rows of a given matrix
 
 
-# Leetcode array problems 
+# [Leetcode array problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/leetcode_array_examples.ipynb) 
 
 - ZigZag Conversion
 - Remove Duplicates from Sorted Array
@@ -65,26 +65,26 @@ problems are solved in python(3)
 - Best Time to Buy and Sell Stock
 
 
-# Leetcode matrix problems 
+# [Leetcode matrix problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/leetcode_matrix_problems.ipynb) 
 
 - Search a 2D Matrix
 
 
-# geeksforgeeks string problems
+# [geeksforgeeks string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/strings_geeks_for_geeks.ipynb)
 
 - Palindrome String
 - Print all the duplicates in the input string
 - A Program to check if strings are rotations of each other or not
 - Longest Palindrome in a String 
 
-# leetcode string problems
+# [leetcode string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/string_leetcode.ipynb)
 
 - Reverse String
 - Count and Say
 
 
 
-# Sorting
+# [Sorting](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/ds_examples/sorting.ipynb)
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -96,7 +96,7 @@ problems are solved in python(3)
 
 
 
-# HackerRank
+# [HackerRank](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/hackerrank_examples.ipynb)
 - Compare the Triplets
 - Diagonal Difference
 - Plus Minus
