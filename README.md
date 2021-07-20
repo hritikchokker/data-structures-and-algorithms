@@ -5,7 +5,7 @@ questions on data structures and algorithms from leetcode hackerrank,geeksforgee
 
 problems are solved in python(3)
 
-# geeksforgeeks array problems
+# [geeksforgeeks array problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/geeks_for_geeks_array_problems.ipynb)
 
 - Delete without head pointer
 - Multiply left and right array sum
@@ -39,7 +39,7 @@ problems are solved in python(3)
 - Arrange given numbers to form the biggest number
 - Longest Increasing Subsequence
 
-# geeksforgeeks matrix problems
+# [geeksforgeeks matrix problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/geeks_for_geeks_matrix_problems.ipynb)
 
 - Spirally traversing a matrix 
 - Row with max 1s
@@ -52,7 +52,7 @@ problems are solved in python(3)
 - Common elements in all rows of a given matrix
 
 
-# Leetcode array problems 
+# [Leetcode array problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/leetcode_array_examples.ipynb) 
 
 - ZigZag Conversion
 - Remove Duplicates from Sorted Array
@@ -67,12 +67,12 @@ problems are solved in python(3)
 - Best Time to Buy and Sell Stock
 
 
-# Leetcode matrix problems 
+# [Leetcode matrix problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/leetcode_matrix_problems.ipynb) 
 
 - Search a 2D Matrix
 
 
-# geeksforgeeks string problems
+# [geeksforgeeks string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/strings_geeks_for_geeks.ipynb)
 
 - Palindrome String
 - Print all the duplicates in the input string
@@ -80,14 +80,14 @@ problems are solved in python(3)
 - Longest Palindrome in a String 
 - Longest Repeating Subsequence
 
-# leetcode string problems
+# [leetcode string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/string_leetcode.ipynb)
 
 - Reverse String
 - Count and Say
 
 
 
-# Sorting
+# [Sorting](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/ds_examples/sorting.ipynb)
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -99,7 +99,7 @@ problems are solved in python(3)
 
 
 
-# HackerRank
+# [HackerRank](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/hackerrank_examples.ipynb)
 - Compare the Triplets
 - Diagonal Difference
 - Plus Minus
