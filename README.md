@@ -36,6 +36,8 @@ problems are solved in python(3)
 - Smallest subarray with sum greater than x
 - Find subarray with given sum with negatives allowed in constant space
 - Three way partitioning 
+- Arrange given numbers to form the biggest number
+- Longest Increasing Subsequence
 
 # geeksforgeeks matrix problems
 
@@ -76,6 +78,7 @@ problems are solved in python(3)
 - Print all the duplicates in the input string
 - A Program to check if strings are rotations of each other or not
 - Longest Palindrome in a String 
+- Longest Repeating Subsequence
 
 # leetcode string problems
 
