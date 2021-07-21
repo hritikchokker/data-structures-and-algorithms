@@ -84,6 +84,7 @@ problems are solved in python(3)
 
 - Reverse String
 - Count and Say
+- Longest Common Subsequence
 
 
 
