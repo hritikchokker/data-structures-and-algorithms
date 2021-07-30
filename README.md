@@ -109,3 +109,9 @@ problems are solved in python(3)
 - Birthday Cake Candles
 - Staircase
 - Number Line Jumps
+
+# [practice Geeks For Geeks](https://practice.geeksforgeeks.org/explore)
+
+- Rearrange an array with O(1) extra space 
+- Rearrange Array Alternately
+- Count divisors of product of array elements
