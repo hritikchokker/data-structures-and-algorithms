@@ -115,3 +115,4 @@ problems are solved in python(3)
 - Rearrange an array with O(1) extra space 
 - Rearrange Array Alternately
 - Count divisors of product of array elements
+- Find element occuring once when all other are present thrice 
