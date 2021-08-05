@@ -112,7 +112,9 @@ problems are solved in python(3)
 
 # [practice Geeks For Geeks](https://practice.geeksforgeeks.org/explore)
 
-- Rearrange an array with O(1) extra space 
-- Rearrange Array Alternately
-- Count divisors of product of array elements
-- Find element occuring once when all other are present thrice 
+- Rearrange an array with O(1) extra space (Array)
+- Rearrange Array Alternately (Array)
+- Count divisors of product of array elements (Array)
+- Find element occuring once when all other are present thrice (Array)
+- Longest Even Length Substring (String)
+- Print Anagrams Together (String)
