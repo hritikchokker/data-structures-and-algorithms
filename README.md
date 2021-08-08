@@ -118,3 +118,9 @@ problems are solved in python(3)
 - Find element occuring once when all other are present thrice (Array)
 - Longest Even Length Substring (String)
 - Print Anagrams Together (String)
+- Shortest Common Supersequence (String)
+
+# [practice Leetcode](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
+
+- Remove Duplicate Letters
+- Find the Difference
