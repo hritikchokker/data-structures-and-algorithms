@@ -122,5 +122,6 @@ problems are solved in python(3)
 
 # [practice Leetcode](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
-- Remove Duplicate Letters
-- Find the Difference
+- Remove Duplicate Letters (string)
+- Find the Difference (string)
+-  Longest Substring Without Repeating Characters (string)
