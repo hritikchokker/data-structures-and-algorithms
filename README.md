@@ -79,6 +79,10 @@ problems are solved in python(3)
 - A Program to check if strings are rotations of each other or not
 - Longest Palindrome in a String 
 - Longest Repeating Subsequence
+- Word Wrap 
+- Next Permutation
+- Parenthesis Checker 
+- Edit Distance 
 
 # [leetcode string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/string_leetcode.ipynb)
 
@@ -124,4 +128,4 @@ problems are solved in python(3)
 
 - Remove Duplicate Letters (string)
 - Find the Difference (string)
--  Longest Substring Without Repeating Characters (string)
+- Longest Substring Without Repeating Characters (string)
