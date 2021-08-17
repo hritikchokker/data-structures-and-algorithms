@@ -83,6 +83,7 @@ problems are solved in python(3)
 - Next Permutation
 - Parenthesis Checker 
 - Edit Distance 
+- Longest Prefix Suffix
 
 # [leetcode string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/string_leetcode.ipynb)
 
@@ -91,6 +92,12 @@ problems are solved in python(3)
 - Longest Common Subsequence
 - Distinct Subsequences
 
+
+# [Coding Ninjas](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/coding_ninjas.ipynb)
+
+- Swap and Maximise
+- Replace Spaces 
+- Longest Increasing Subsequence 
 
 
 # [Sorting](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/ds_examples/sorting.ipynb)
