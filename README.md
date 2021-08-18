@@ -121,6 +121,10 @@ problems are solved in python(3)
 - Staircase
 - Number Line Jumps
 
+# [Stacks Problems GFG](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
+
+- Evaluation of Postfix Expression 
+
 # [practice Geeks For Geeks](https://practice.geeksforgeeks.org/explore)
 
 - Rearrange an array with O(1) extra space (Array)
@@ -130,6 +134,7 @@ problems are solved in python(3)
 - Longest Even Length Substring (String)
 - Print Anagrams Together (String)
 - Shortest Common Supersequence (String)
+
 
 # [practice Leetcode](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
