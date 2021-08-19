@@ -124,6 +124,8 @@ problems are solved in python(3)
 # [Stacks Problems GFG](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
 - Evaluation of Postfix Expression 
+- Check if a string is a subsequence of another string
+- Next Greater Element
 
 # [practice Geeks For Geeks](https://practice.geeksforgeeks.org/explore)
 
