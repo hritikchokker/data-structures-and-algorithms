@@ -120,6 +120,9 @@ problems are solved in python(3)
 - Birthday Cake Candles
 - Staircase
 - Number Line Jumps
+- Maximum Element
+- Balanced Brackets
+- Largest Rectangle
 
 # [Stacks Problems GFG](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
