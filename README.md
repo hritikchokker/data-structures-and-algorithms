@@ -98,6 +98,7 @@ problems are solved in python(3)
 - Swap and Maximise
 - Replace Spaces 
 - Longest Increasing Subsequence 
+- Waiter
 
 
 # [Sorting](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/ds_examples/sorting.ipynb)
@@ -146,3 +147,7 @@ problems are solved in python(3)
 - Remove Duplicate Letters (string)
 - Find the Difference (string)
 - Longest Substring Without Repeating Characters (string)
+
+# [geeks for geeks top 50 array questions](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+
+- Peak Element
