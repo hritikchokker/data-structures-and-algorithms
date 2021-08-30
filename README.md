@@ -65,6 +65,7 @@ problems are solved in python(3)
 - Merge Intervals
 - Next Permutation
 - Best Time to Buy and Sell Stock
+- Hand of Straights
 
 
 # [Leetcode matrix problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/leetcode_matrix_problems.ipynb) 
