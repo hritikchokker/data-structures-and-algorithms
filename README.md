@@ -85,6 +85,7 @@ problems are solved in python(3)
 - Parenthesis Checker 
 - Edit Distance 
 - Longest Prefix Suffix
+- String Without AAA or BBB
 
 # [leetcode string problems](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/string_leetcode.ipynb)
 
@@ -125,6 +126,10 @@ problems are solved in python(3)
 - Maximum Element
 - Balanced Brackets
 - Largest Rectangle
+
+# [HackerEarch](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/hackerearth_problems.ipynb)
+- Charged Up Array
+- Maximize the modulo function
 
 # [Stacks Problems GFG](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
