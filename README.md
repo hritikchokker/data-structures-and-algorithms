@@ -130,6 +130,8 @@ problems are solved in python(3)
 # [HackerEarch](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/hackerearth_problems.ipynb)
 - Charged Up Array
 - Maximize the modulo function
+- Minimum operations
+- In an array
 
 # [Stacks Problems GFG](https://github.com/hritikchokker/data-structures-and-algorithms/blob/master/practice_leetcode_strings.ipynb)
 
